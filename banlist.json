@@ -1,18 +1,22 @@
 [
   {
     "id": 10637653676,
-    "reason": "skid"
+    "reason": "Use of unauthorized or disruptive scripts."
   },
   {
     "id": 9315871110,
-    "reason": "skid"
+    "reason": "Use of unauthorized or disruptive scripts."
   },
   {
     "id": 9037108549,
-    "reason": "using a server destoryer"
+    "reason": "Use of a server-destroying exploit or tool."
   },
   {
     "id": 10705928652,
-    "reason": "you were using a script that kick everyone out and show \"SERVER PURGED: NULL CAVO PROTOCOL\""
+    "reason": "Use of a script to forcibly remove all users from the server while displaying the message \"SERVER PURGED: NULL CAVO PROTOCOL\"."
+  },
+  {
+    "id": 11994252,
+    "reason": "Use of automated scripts to iterate through and remove users from the server."
   }
 ]
