@@ -1,7 +1,5 @@
 # skidlock
 
-## about
-skidlock blocks skids and condo users on roblox.
 
 ## features
 - detects flagged users
