@@ -1,26 +1,26 @@
 [
 {
 "id": 10637653676,
-"reason": "Engaging in the use of unauthorized or disruptive scripts."
+"reason": "Used unauthorized scripts."
 },
 {
 "id": 9315871110,
-"reason": "Engaging in the use of unauthorized or disruptive scripts."
+"reason": "Used unauthorized scripts."
 },
 {
 "id": 9037108549,
-"reason": "Utilizing a server-destructive exploit or tool."
+"reason": "Used tools to destroy servers."
 },
 {
 "id": 10705928652,
-"reason": "Executing a script that forcibly removes all users from the server while displaying the message SERVER PURGED: NULL CAVO PROTOCOL"
+"reason": "Ran a script to kick all players with a custom purge message."
 },
 {
 "id": 11994252,
-"reason": "Employing automated scripts to iterate through and remove users from the server."
+"reason": "Used automated bots to remove users from the server."
 },
 {
 "id": 7754285887,
-"reason": "Intentionally restricting server access, thereby preventing other users from joining and negatively impacting overall user experience."
+"reason": "Blocked server access to stop others from joining."
 }
 ]
