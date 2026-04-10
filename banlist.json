@@ -1,26 +1,30 @@
 [
-{
-"id": 10637653676,
-"reason": "Used unauthorized scripts."
-},
-{
-"id": 9315871110,
-"reason": "Used unauthorized scripts."
-},
-{
-"id": 9037108549,
-"reason": "Used tools to destroy servers."
-},
-{
-"id": 10705928652,
-"reason": "Ran a script to kick all players with a custom purge message."
-},
-{
-"id": 11994252,
-"reason": "Used automated bots to remove users from the server."
-},
-{
-"id": 7754285887,
-"reason": "Blocked server access to stop others from joining."
-}
+  {
+    "id": 10637653676,
+    "reason": "Used unauthorized scripts."
+  },
+  {
+    "id": 9315871110,
+    "reason": "Used unauthorized scripts."
+  },
+  {
+    "id": 9037108549,
+    "reason": "Used tools to destroy servers."
+  },
+  {
+    "id": 10705928652,
+    "reason": "Ran a script to kick all players with a custom purge message."
+  },
+  {
+    "id": 11994252,
+    "reason": "Used automated bots to remove users from the server."
+  },
+  {
+    "id": 7754285887,
+    "reason": "Blocked server access to stop others from joining."
+  },
+  {
+    "id": 1155139466,
+    "reason": "Leaked UPW."
+  }
 ]
