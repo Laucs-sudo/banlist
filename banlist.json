@@ -1,3 +1,4 @@
+[
   {
     "id": 9315871110,
     "reason": "Used unauthorized scripts."
@@ -25,5 +26,9 @@
   {
     "id": 3341266064,
     "reason": "Inappropriate avatar content."
+  },
+  {
+    "id": 85090406,
+    "reason": "Community report / unverified allegation-based entry"
   }
 ]
