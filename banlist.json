@@ -1,34 +1,2057 @@
 [
   {
-    "id": 9315871110,
-    "reason": "Used unauthorized scripts."
+    "id": 1,
+    "reason": "problems",
+    "source": "vecxo"
   },
   {
-    "id": 9037108549,
-    "reason": "Used tools to disrupt or destroy servers."
+    "id": 49,
+    "reason": "C00lgui user",
+    "source": "vecxo"
   },
   {
-    "id": 10705928652,
-    "reason": "Executed a script that forcibly removed all players using a custom system message."
+    "id": 1617533,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 2945784,
+    "reason": "generic server destroyer",
+    "source": "vecxo"
+  },
+  {
+    "id": 5252298,
+    "reason": "seek help",
+    "source": "vecxo"
+  },
+  {
+    "id": 8166491,
+    "reason": "Evil hacker",
+    "source": "vecxo"
+  },
+  {
+    "id": 10834937,
+    "reason": "gosh, someone doesnt have a life over here",
+    "source": "vecxo"
   },
   {
     "id": 11994252,
-    "reason": "Used automated systems to remove users from the server."
+    "reason": "Used automated systems to remove users from the server.",
+    "source": "LAS"
   },
   {
-    "id": 7754285887,
-    "reason": "Blocked or restricted server access to prevent users from joining."
+    "id": 12722000,
+    "reason": "require(****)._RainbowEngine() --// nice try pal",
+    "source": "vecxo"
   },
   {
-    "id": 1155139466,
-    "reason": "Distributed unauthorized or restricted content."
+    "id": 17000297,
+    "reason": "retard",
+    "source": "vecxo"
   },
   {
-    "id": 3341266064,
-    "reason": "Inappropriate avatar content."
+    "id": 29900469,
+    "reason": "c00lgui slop",
+    "source": "vecxo"
+  },
+  {
+    "id": 31690382,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 36377783,
+    "reason": "noob",
+    "source": "vecxo"
+  },
+  {
+    "id": 64922579,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 70443209,
+    "reason": "koopskid, https://discord.com/channels/1436719594122383370/1475658197535690792",
+    "source": "vecxo"
+  },
+  {
+    "id": 79303816,
+    "reason": "nsfe",
+    "source": "vecxo"
   },
   {
     "id": 85090406,
-    "reason": "Community report / unverified allegation-based entry"
+    "reason": "Community report / unverified allegation-based entry",
+    "source": "LAS"
+  },
+  {
+    "id": 106694176,
+    "reason": "nsfw with groovys img loader",
+    "source": "vecxo"
+  },
+  {
+    "id": 111245473,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 117773072,
+    "reason": "Raw Code Detected Player: ethan2e242 (117773072) Game: Unknown Game Server: server1 Input: loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Gazer-Ha/Neko-v1/main/Extremely%20Broken\"))() end) really brah",
+    "source": "vecxo"
+  },
+  {
+    "id": 160811593,
+    "reason": "loading condo",
+    "source": "vecxo"
+  },
+  {
+    "id": 161411522,
+    "reason": "Alt account detected\nAlt of GtaSCara (2909249866)\nReason: durrrrr durrrrrrrrrrrrr retard\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 191954400,
+    "reason": "u banned me",
+    "source": "vecxo"
+  },
+  {
+    "id": 224190584,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 275128086,
+    "reason": "banned me for no reason, sick cya",
+    "source": "vecxo"
+  },
+  {
+    "id": 282101293,
+    "reason": "Alt account detected\nAlt of Kulzilx (8565498834)\nReason: nsfw user\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 313392464,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 326931874,
+    "reason": "Raw Code Detected Player: whywontrobloxletmem (2572472335) Game: [Place 1] Lua Script Execution Server: server80 Input: while task.wait() do      for _, d in ipairs(game.Players:GetPlayers()) do          if d.Name ~= \"whywontrobloxletmem\" then d:Destroy()  end     end  end",
+    "source": "vecxo"
+  },
+  {
+    "id": 384406323,
+    "reason": "shhh please shut up",
+    "source": "vecxo"
+  },
+  {
+    "id": 411759939,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 430717813,
+    "reason": "laggy ass fakechar user",
+    "source": "vecxo"
+  },
+  {
+    "id": 450025948,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 468723817,
+    "reason": "cya",
+    "source": "vecxo"
+  },
+  {
+    "id": 692100285,
+    "reason": "who got grooomed by pedophile 1, groomed someone else, yadayada became a teen furry as a result of pedophile 1 switched back itis a whole ordeal",
+    "source": "vecxo"
+  },
+  {
+    "id": 704351063,
+    "reason": "retard skid banisher cya",
+    "source": "vecxo"
+  },
+  {
+    "id": 721762342,
+    "reason": "annoyance cya",
+    "source": "vecxo"
+  },
+  {
+    "id": 892516663,
+    "reason": "loop shutting down and being annoying",
+    "source": "vecxo"
+  },
+  {
+    "id": 927175114,
+    "reason": "Banned by admin",
+    "source": "vecxo"
+  },
+  {
+    "id": 931566722,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 938294228,
+    "reason": "logger",
+    "source": "vecxo"
+  },
+  {
+    "id": 970117386,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 1010287234,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 1067085748,
+    "reason": "Alt account detected\nAlt of Prodsawsd (1455328023)\nReason: Alt account detected\nAlt of MrGriefer0 (5555243926)\nReason: nice hint spam\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 1069845326,
+    "reason": "logging and not admitting to it",
+    "source": "vecxo"
+  },
+  {
+    "id": 1074597064,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 1132987933,
+    "reason": "cya weirdo",
+    "source": "vecxo"
+  },
+  {
+    "id": 1155139466,
+    "reason": "Distributed unauthorized or restricted content.",
+    "source": "LAS"
+  },
+  {
+    "id": 1164129012,
+    "reason": "banning me for no reason",
+    "source": "vecxo"
+  },
+  {
+    "id": 1195840300,
+    "reason": "cya never, you are genuinely the biggest larp ever",
+    "source": "vecxo"
+  },
+  {
+    "id": 1201261287,
+    "reason": "annoyance femboy guis",
+    "source": "vecxo"
+  },
+  {
+    "id": 1244927264,
+    "reason": "Alt account detected\nAlt of koreaonetop1_ChinaL (10738366615)\nReason: uno reverse pal\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 1275174177,
+    "reason": "Alt account detected\nAlt of Prodsawsd (1455328023)\nReason: Alt account detected\nAlt of MrGriefer0 (5555243926)\nReason: nice hint spam\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 1293773961,
+    "reason": "nice bro you are so talented at vibe coding,  cya never",
+    "source": "vecxo"
+  },
+  {
+    "id": 1322835661,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 1330794192,
+    "reason": "trying to use server destroyers",
+    "source": "vecxo"
+  },
+  {
+    "id": 1424038545,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 1454109957,
+    "reason": "nice hint spam",
+    "source": "vecxo"
+  },
+  {
+    "id": 1455328023,
+    "reason": "Alt account detected\nAlt of MrGriefer0 (5555243926)\nReason: nice hint spam\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 1562055308,
+    "reason": "condo nigger",
+    "source": "vecxo"
+  },
+  {
+    "id": 1648943846,
+    "reason": "running luaneko on others",
+    "source": "vecxo"
+  },
+  {
+    "id": 1673664156,
+    "reason": "nsfw lover cya",
+    "source": "vecxo"
+  },
+  {
+    "id": 1677672761,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 1713876992,
+    "reason": "yet another condo mf get off SB immediately bruh",
+    "source": "vecxo"
+  },
+  {
+    "id": 1817368034,
+    "reason": "Alt account detected\nAlt of benbowjos125 (282101293)\nReason: Alt account detected\nAlt of Kulzilx (8565498834)\nReason: nsfw user\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 1849835131,
+    "reason": "annoying nuke skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 1850433183,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 1870225239,
+    "reason": "running banned assets in the chat",
+    "source": "vecxo"
+  },
+  {
+    "id": 1939212293,
+    "reason": "Alt account detected\nAlt of 6P202 (7932287318)\nReason: hey so i clearly see what you are running, dont make me patch it :-)\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 1953915328,
+    "reason": "kingnoodlel (@Necromancer Summon) • server3 :ban others evolve first ~ sick bro",
+    "source": "vecxo"
+  },
+  {
+    "id": 2010322324,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 2037954422,
+    "reason": "nsnfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 2201544800,
+    "reason": "shall we not lie about our appeals? (editing condo files to add NSFW shit, their excuse was editing it for the scripts and bypasses)",
+    "source": "vecxo"
+  },
+  {
+    "id": 2261824804,
+    "reason": "yeah alright buddy u played condo games 6 times, you wear weird avatar and you have been in condo groups you also have friends who play condos too get off this platform immediately!",
+    "source": "vecxo"
+  },
+  {
+    "id": 2348789519,
+    "reason": "ok bro nice server nuke script",
+    "source": "vecxo"
+  },
+  {
+    "id": 2390269735,
+    "reason": "nsfw https://discord.com/channels/1436719594122383370/1490320670779900035",
+    "source": "vecxo"
+  },
+  {
+    "id": 2400718411,
+    "reason": "false banning",
+    "source": "vecxo"
+  },
+  {
+    "id": 2420132026,
+    "reason": "skid, https://discord.com/channels/1436719594122383370/1474425626210603111",
+    "source": "vecxo"
+  },
+  {
+    "id": 2443461325,
+    "reason": "person who leaked hadal (keep things to yourself noob)",
+    "source": "vecxo"
+  },
+  {
+    "id": 2460788452,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 2474214242,
+    "reason": "in a condo (apperently)",
+    "source": "vecxo"
+  },
+  {
+    "id": 2497975753,
+    "reason": "chara alt",
+    "source": "vecxo"
+  },
+  {
+    "id": 2526992817,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 2572472335,
+    "reason": "Raw Code Detected Player: whywontrobloxletmem (2572472335) Game: [Place 1] Lua Script Execution Server: server80 Input: while task.wait() do      for _, d in ipairs(game.Players:GetPlayers()) do          if d.Name ~= \"whywontrobloxletmem\" then d:Destroy()  end     end  end",
+    "source": "vecxo"
+  },
+  {
+    "id": 2617659082,
+    "reason": "nsfw, weird guy having roblox sex with npc furry, https://discord.com/channels/1436719594122383370/1476200059627638814",
+    "source": "vecxo"
+  },
+  {
+    "id": 2647879920,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 2675935662,
+    "reason": "logger",
+    "source": "vecxo"
+  },
+  {
+    "id": 2701018344,
+    "reason": "possible condo association - 56% from rotector",
+    "source": "vecxo"
+  },
+  {
+    "id": 2702920778,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 2712324654,
+    "reason": "nice ultra fast kick loop retard",
+    "source": "vecxo"
+  },
+  {
+    "id": 2741917224,
+    "reason": "weirdo",
+    "source": "vecxo"
+  },
+  {
+    "id": 2782943016,
+    "reason": "found in 5 condo groups and 23 friends who had condo activity ur weird dude update: blud seems to be even hosting condos wtf lol",
+    "source": "vecxo"
+  },
+  {
+    "id": 2817849198,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 2853381039,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 2863911751,
+    "reason": "alright bruh u said gg/rosex in the chat which is enough evidence that you participated in a condo game but luckily vecko was running there so i figured that out and shut it down plus i banned you so you cant interact with require games on this acc anymore go outside and get a life pls",
+    "source": "vecxo"
+  },
+  {
+    "id": 2877933033,
+    "reason": "morph slop",
+    "source": "vecxo"
+  },
+  {
+    "id": 2885593199,
+    "reason": "annoyance",
+    "source": "vecxo"
+  },
+  {
+    "id": 2909249866,
+    "reason": "durrrrr durrrrrrrrrrrrr retard",
+    "source": "vecxo"
+  },
+  {
+    "id": 2955678041,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 2957528446,
+    "reason": "wants nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 2987494128,
+    "reason": "possible nsfw user as seen using an intentional nsfw script",
+    "source": "vecxo"
+  },
+  {
+    "id": 2996250135,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 3024694771,
+    "reason": "Alt account detected\nAlt of reaIme123phon (9331259347)\nReason: Alt account detected\nAlt of Youareanint_cc (10701050059)\nReason: nice\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 3035247332,
+    "reason": "undetected admin slop",
+    "source": "vecxo"
+  },
+  {
+    "id": 3093599714,
+    "reason": "nsfw slop",
+    "source": "vecxo"
+  },
+  {
+    "id": 3109623505,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 3148865800,
+    "reason": "attempting to banasync everyone",
+    "source": "vecxo"
+  },
+  {
+    "id": 3270554075,
+    "reason": "in a relationship with someone who boosts condos | refuses to acknowledge it | made porn scripts | says hes a mod in bad dragon / e621 (as a minor) | erped with ocbwoy3 | sent porn to people not of age",
+    "source": "vecxo"
+  },
+  {
+    "id": 3295449376,
+    "reason": "spam teleporting",
+    "source": "vecxo"
+  },
+  {
+    "id": 3335600165,
+    "reason": "cya slop anime",
+    "source": "vecxo"
+  },
+  {
+    "id": 3341266064,
+    "reason": "Inappropriate avatar content.",
+    "source": "LAS"
+  },
+  {
+    "id": 3350226633,
+    "reason": "nuisance",
+    "source": "vecxo"
+  },
+  {
+    "id": 3363974407,
+    "reason": "Alt account detected\nAlt of brolol95 (1069845326)\nReason: logging and not admitting to it\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 3404706739,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 3465511588,
+    "reason": "annoyance hint spam",
+    "source": "vecxo"
+  },
+  {
+    "id": 3495888806,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 3519164132,
+    "reason": "chara alt",
+    "source": "vecxo"
+  },
+  {
+    "id": 3519170829,
+    "reason": "charas alt",
+    "source": "vecxo"
+  },
+  {
+    "id": 3537323685,
+    "reason": "spam kicking I see exactly what you are doing cya",
+    "source": "vecxo"
+  },
+  {
+    "id": 3562299334,
+    "reason": "trying to crash server, https://discord.com/channels/1436719594122383370/1475912254053683351",
+    "source": "vecxo"
+  },
+  {
+    "id": 3645006095,
+    "reason": "part crash spam cya, https://discord.com/channels/1436719594122383370/1436719594122383374/1490935764240830495",
+    "source": "vecxo"
+  },
+  {
+    "id": 3662997555,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 3699804088,
+    "reason": "c00lkid gui user, https://discord.com/channels/1436719594122383370/1478222138380128478",
+    "source": "vecxo"
+  },
+  {
+    "id": 3817711719,
+    "reason": "nsfw https://discord.com/channels/1436719594122383370/1490320670779900035",
+    "source": "vecxo"
+  },
+  {
+    "id": 3825217311,
+    "reason": "nsfw, https://discord.com/channels/1436719594122383370/1495072397223526401",
+    "source": "vecxo"
+  },
+  {
+    "id": 3842688628,
+    "reason": "literally pedo bruh",
+    "source": "vecxo"
+  },
+  {
+    "id": 3856797635,
+    "reason": "undetected admin slop",
+    "source": "vecxo"
+  },
+  {
+    "id": 3876858820,
+    "reason": "holy retard mr bean slock cya",
+    "source": "vecxo"
+  },
+  {
+    "id": 3947902015,
+    "reason": "\"who has 18+ require?\" get out",
+    "source": "vecxo"
+  },
+  {
+    "id": 4012390290,
+    "reason": "Alt account detected\nAlt of ciseity (3856797635)\nReason: undetected admin slop\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 4126950329,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 4182845377,
+    "reason": "constantly shutting a server down, cya https://discord.com/channels/1399739698569805874/1415016182209318953/1495592267648598078",
+    "source": "vecxo"
+  },
+  {
+    "id": 4241593355,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 4243085449,
+    "reason": "annoying and spamming a kill script",
+    "source": "vecxo"
+  },
+  {
+    "id": 4348391820,
+    "reason": "for i, v in game.Players:GetChildren() do if v ~= game.Players.SomeoneStealMyCar then v:Destroy() end end  Awesome job",
+    "source": "vecxo"
+  },
+  {
+    "id": 4613074657,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 4715799881,
+    "reason": "running banned assets in the chat",
+    "source": "vecxo"
+  },
+  {
+    "id": 4765062039,
+    "reason": "Alt account detected\nAlt of LUASCRIPTCODEGUIS (10778795396)\nReason: loading slop guis through a different remote through the chat\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 4828382258,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 4908400622,
+    "reason": "Alt account detected\nAlt of XxHawk_KingxX2012 (9892412047)\nReason: Alt account detected\nAlt of gigachad9211 (4778407335)\nReason: Alt account detected\nAlt of Imran77438 (5328732728)\nReason: Alt account detected\nAlt of ionblok2 (3066636699)\nReason: Alt account detected\nAlt of keremben31319 (9073113539)\nReason: antiskid wins\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 4948686256,
+    "reason": "you disgust me bruh get outttt you erp faggot",
+    "source": "vecxo"
+  },
+  {
+    "id": 4985857483,
+    "reason": "previously found in 2 flagged condo groups ok ur prob a weirdo too plus ur cosplaying as some female avatar so youre 100% dude catfishing these poor lonely men brooooo fix ur shit up",
+    "source": "vecxo"
+  },
+  {
+    "id": 5032389474,
+    "reason": "luaneko slop",
+    "source": "vecxo"
+  },
+  {
+    "id": 5037466616,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 5038865687,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 5054316003,
+    "reason": "Alt account detected\nAlt of paydenthompson08 (106694176)\nReason: nsfw with groovys img loader\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 5091416805,
+    "reason": "coolgui skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 5100703662,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 5133000667,
+    "reason": "weird guy loading furry nsfw, https://discord.com/channels/1436719594122383370/1475197914468057210",
+    "source": "vecxo"
+  },
+  {
+    "id": 5181210814,
+    "reason": "skidding!",
+    "source": "vecxo"
+  },
+  {
+    "id": 5222724214,
+    "reason": "nice hint spam",
+    "source": "vecxo"
+  },
+  {
+    "id": 5258482635,
+    "reason": "nsfw, https://discord.com/channels/1436719594122383370/1495072397223526401",
+    "source": "vecxo"
+  },
+  {
+    "id": 5285740014,
+    "reason": "condo assocation",
+    "source": "vecxo"
+  },
+  {
+    "id": 5555243926,
+    "reason": "nice hint spam",
+    "source": "vecxo"
+  },
+  {
+    "id": 5560201983,
+    "reason": "Alt account detected\nAlt of DONTUSEREALLYNAMER (8736160179)\nReason: great happyhub user proof in vecko chat logs https://discord.com/channels/1399739698569805874/1399739699312201760/1489623293785805001\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 5563922712,
+    "reason": "banning people randomly via HD admin, https://discord.com/channels/1436719594122383370/1482634121300938772",
+    "source": "vecxo"
+  },
+  {
+    "id": 5569369592,
+    "reason": "Raw Code Detected Player: qwesd1_634 (5569369592) Game: Nan Lua Executor (Update) Server: server1 Input: loadstring(game:HttpGet(\"https://gist.githubusercontent.com/dark-modz/a89a5d629d598fc198d1106fe6701685/raw/646a9cefa844cccd3c760715f59d25fe63b4a06b/shadowhub-NekoAndMore\"))() cya neko lover",
+    "source": "vecxo"
+  },
+  {
+    "id": 5620143637,
+    "reason": "hd shutdown attempt",
+    "source": "vecxo"
+  },
+  {
+    "id": 5626387638,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 5645855004,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 5729421868,
+    "reason": "Alt account detected\nAlt of imvincingit123 (8349657619)\nReason: Alt account detected\nAlt of donchen28 (275128086)\nReason: banned me for no reason, sick cya\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 5736678695,
+    "reason": "Alt account detected\nAlt of ccxw_ad (10519458894)\nReason: Alt account detected\nAlt of Xellernate0 (9880370161)\nReason: server destroyer\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 5749261831,
+    "reason": "annoying gun spammer killing everyone",
+    "source": "vecxo"
+  },
+  {
+    "id": 5863983473,
+    "reason": "actual weirdo",
+    "source": "vecxo"
+  },
+  {
+    "id": 6015706377,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 6021866583,
+    "reason": "Alt account detected\nAlt of interc0ntinentalMess (9600976418)\nReason: Alt account detected\nAlt of llIlIllllIIIllIIlI (4243085449)\nReason: annoying and spamming a kill script\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 6130127807,
+    "reason": "spam loading zombies and being annoying",
+    "source": "vecxo"
+  },
+  {
+    "id": 6176970647,
+    "reason": "Alt account detected\nAlt of LUASCRIPTCODEGUIS (10778795396)\nReason: loading slop guis through a different remote through the chat\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 7025922733,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 7027498339,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 7082939347,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 7085173902,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 7128664923,
+    "reason": "Alt account detected\nAlt of PhilippM053_Handy (2420132026)\nReason: skid, https://discord.com/channels/1436719594122383370/1474425626210603111\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 7164113892,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 7174823537,
+    "reason": "nsfw eknwrwiuekarjkewinywrgrviue jahwrsyweu aysvijs yg hbiSTOp",
+    "source": "vecxo"
+  },
+  {
+    "id": 7175464423,
+    "reason": "skid, https://discord.com/channels/1436719594122383370/1478738120689319936",
+    "source": "vecxo"
+  },
+  {
+    "id": 7191931854,
+    "reason": "Allowed a \"pedophile\" (guy who tried to make nsfw of soups avatar, suspected to be above 18) inside of your discord because your friends wanted him to stay.",
+    "source": "vecxo"
+  },
+  {
+    "id": 7225111600,
+    "reason": "skid behavior",
+    "source": "vecxo"
+  },
+  {
+    "id": 7236263397,
+    "reason": "Alt account detected\nAlt of Flashbacksto911 (6130127807)\nReason: spam loading zombies and being annoying\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 7254894765,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 7378568336,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 7419493977,
+    "reason": "skid fuck you",
+    "source": "vecxo"
+  },
+  {
+    "id": 7519737886,
+    "reason": "c00lgui slop",
+    "source": "vecxo"
+  },
+  {
+    "id": 7560443985,
+    "reason": "find some other place to breed",
+    "source": "vecxo"
+  },
+  {
+    "id": 7600260743,
+    "reason": "using exser v2 for skybox spam or decal spam whatever that shit is",
+    "source": "vecxo"
+  },
+  {
+    "id": 7638820366,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 7671797696,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 7674044422,
+    "reason": "Alt account detected\nAlt of benbowjos125 (282101293)\nReason: Alt account detected\nAlt of Kulzilx (8565498834)\nReason: nsfw user\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 7681110817,
+    "reason": "shutting down a completely fine server - https://req-exe.win/proof/bzbuy3s3fa.png",
+    "source": "vecxo"
+  },
+  {
+    "id": 7721794676,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 7740488445,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 7744985616,
+    "reason": "c00lgui slop + weird ass bio",
+    "source": "vecxo"
+  },
+  {
+    "id": 7754285887,
+    "reason": "Blocked or restricted server access to prevent users from joining.",
+    "source": "LAS"
+  },
+  {
+    "id": 7781371282,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 7781614565,
+    "reason": "Alt account detected\nAlt of hsinsk72 (9925395192)\nReason: Alt account detected\nAlt of Eroas096 (8101645855)\nReason: Alt account detected\nAlt of p4m8p (9100800121)\nReason: Alt account detected\nAlt of Jswidhfhwjd (9439557282)\nReason: Alt account detected\nAlt of Vhickfigigigigigug (10741795549)\nReason: nuisance\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 7858343297,
+    "reason": "annoyance",
+    "source": "vecxo"
+  },
+  {
+    "id": 7879721443,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 7924459549,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 7932287318,
+    "reason": "hey so i clearly see what you are running, dont make me patch it :-)",
+    "source": "vecxo"
+  },
+  {
+    "id": 7993538119,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 8002734680,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 8039014737,
+    "reason": "patrick slop cya",
+    "source": "vecxo"
+  },
+  {
+    "id": 8133067147,
+    "reason": "condo assocation 100% cya",
+    "source": "vecxo"
+  },
+  {
+    "id": 8248073645,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 8285349657,
+    "reason": "horny ahh skid, https://discord.com/channels/1436719594122383370/1483512021730463966",
+    "source": "vecxo"
+  },
+  {
+    "id": 8294539333,
+    "reason": "serverlocking",
+    "source": "vecxo"
+  },
+  {
+    "id": 8337837084,
+    "reason": "too many errors, write me a better ban code",
+    "source": "vecxo"
+  },
+  {
+    "id": 8349657619,
+    "reason": "Alt account detected\nAlt of donchen28 (275128086)\nReason: banned me for no reason, sick cya\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 8363650536,
+    "reason": "condo nigger",
+    "source": "vecxo"
+  },
+  {
+    "id": 8373001824,
+    "reason": "weirdo",
+    "source": "vecxo"
+  },
+  {
+    "id": 8464559439,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 8482505909,
+    "reason": "skid, https://discord.com/channels/1436719594122383370/1478738120689319936",
+    "source": "vecxo"
+  },
+  {
+    "id": 8542048437,
+    "reason": "way too racist chill",
+    "source": "vecxo"
+  },
+  {
+    "id": 8565498834,
+    "reason": "possible nsfw user as seen using an intentional nsfw script",
+    "source": "vecxo"
+  },
+  {
+    "id": 8570265409,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 8575019289,
+    "reason": "annoyance skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 8585094694,
+    "reason": "horny ahh dude, https://discord.com/channels/1436719594122383370/1483505443945975949",
+    "source": "vecxo"
+  },
+  {
+    "id": 8594706773,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 8628935719,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 8644729868,
+    "reason": "way too racist+weirdo",
+    "source": "vecxo"
+  },
+  {
+    "id": 8659788840,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 8696021368,
+    "reason": "Alt account detected\nAlt of keremben31319 (9073113539)\nReason: antiskid wins\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 8723997702,
+    "reason": "annoying fuckass, https://discord.com/channels/1436719594122383370/1476054981034508299",
+    "source": "vecxo"
+  },
+  {
+    "id": 8736160179,
+    "reason": "great happyhub user proof in vecko chat logs https://discord.com/channels/1399739698569805874/1399739699312201760/1489623293785805001",
+    "source": "vecxo"
+  },
+  {
+    "id": 8768983418,
+    "reason": "k00pkidd slopp attempt like what are we doing",
+    "source": "vecxo"
+  },
+  {
+    "id": 8842201804,
+    "reason": "horny gay ahh dude https://discord.com/channels/1436719594122383370/1490011154506973304",
+    "source": "vecxo"
+  },
+  {
+    "id": 8899236212,
+    "reason": "nsfw neko slop cya",
+    "source": "vecxo"
+  },
+  {
+    "id": 8907183705,
+    "reason": "loading neko scripts and just running horrible things on people",
+    "source": "vecxo"
+  },
+  {
+    "id": 8931365166,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 9037108549,
+    "reason": "Used tools to disrupt or destroy servers.",
+    "source": "LAS"
+  },
+  {
+    "id": 9050004936,
+    "reason": "nsfw slop",
+    "source": "vecxo"
+  },
+  {
+    "id": 9064556599,
+    "reason": "condo association",
+    "source": "vecxo"
+  },
+  {
+    "id": 9123058480,
+    "reason": "horny gay ahh dude https://discord.com/channels/1436719594122383370/1490011154506973304",
+    "source": "vecxo"
+  },
+  {
+    "id": 9175683333,
+    "reason": "Alt account detected\nAlt of fjodjawdo65 (9192421055)\nReason: nice attempt at banning me cya\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 9189154390,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 9192421055,
+    "reason": "nice attempt at banning me cya",
+    "source": "vecxo"
+  },
+  {
+    "id": 9311280766,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 9315871110,
+    "reason": "Used unauthorized scripts.",
+    "source": "LAS"
+  },
+  {
+    "id": 9331211505,
+    "reason": "nice one bro cya never",
+    "source": "vecxo"
+  },
+  {
+    "id": 9331259347,
+    "reason": "Alt account detected\nAlt of Youareanint_cc (10701050059)\nReason: nice\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 9371104245,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 9371617024,
+    "reason": "Alt account detected\nAlt of intejjer123o698 (6021866583)\nReason: Alt account detected\nAlt of interc0ntinentalMess (9600976418)\nReason: Alt account detected\nAlt of llIlIllllIIIllIIlI (4243085449)\nReason: annoying and spamming a kill script\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 9419751398,
+    "reason": "retard that’s all I’m going to say",
+    "source": "vecxo"
+  },
+  {
+    "id": 9428635351,
+    "reason": "koopskid",
+    "source": "vecxo"
+  },
+  {
+    "id": 9437491862,
+    "reason": "die retard",
+    "source": "vecxo"
+  },
+  {
+    "id": 9450497443,
+    "reason": "destroying the server with c00lkidd bs 💀",
+    "source": "vecxo"
+  },
+  {
+    "id": 9522179111,
+    "reason": "Crashing the server with dummies. cya, https://discord.com/channels/1436719594122383370/1495585803202723900/1495585803202723900",
+    "source": "vecxo"
+  },
+  {
+    "id": 9533941054,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 9587269478,
+    "reason": "part spam",
+    "source": "vecxo"
+  },
+  {
+    "id": 9600924182,
+    "reason": "Alt account detected\nAlt of always3ndToAbeg1ning (9600932618)\nReason: i see what u are doing cya\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 9600932618,
+    "reason": "i see what u are doing cya",
+    "source": "vecxo"
+  },
+  {
+    "id": 9600953999,
+    "reason": "annoying and spamming a kill script",
+    "source": "vecxo"
+  },
+  {
+    "id": 9600970885,
+    "reason": "Alt account detected\nAlt of loljkjusttrolling23 (9371617024)\nReason: Alt account detected\nAlt of intejjer123o698 (6021866583)\nReason: Alt account detected\nAlt of interc0ntinentalMess (9600976418)\nReason: Alt account detected\nAlt of llIlIllllIIIllIIlI (4243085449)\nReason: annoying and spamming a kill script\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 9600976418,
+    "reason": "Alt account detected\nAlt of llIlIllllIIIllIIlI (4243085449)\nReason: annoying and spamming a kill script\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 9600979966,
+    "reason": "Alt account detected\nAlt of intejjer123o698 (6021866583)\nReason: Alt account detected\nAlt of interc0ntinentalMess (9600976418)\nReason: Alt account detected\nAlt of llIlIllllIIIllIIlI (4243085449)\nReason: annoying and spamming a kill script\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 9600987545,
+    "reason": "Alt account detected\nAlt of llIlIllllIIIllIIlI (4243085449)\nReason: annoying and spamming a kill script\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 9608095231,
+    "reason": "never ending happy hub slop",
+    "source": "vecxo"
+  },
+  {
+    "id": 9650725719,
+    "reason": "skid slop",
+    "source": "vecxo"
+  },
+  {
+    "id": 9687111580,
+    "reason": "decalspam",
+    "source": "vecxo"
+  },
+  {
+    "id": 9693985410,
+    "reason": "used decal spam of a very scary popular hacking group anonymous oh nooo you're so scary proof in vecko general chat https://discord.com/channels/1436719594122383370/1436719594122383374/1495394235803893780",
+    "source": "vecxo"
+  },
+  {
+    "id": 9727613949,
+    "reason": "nice one brah",
+    "source": "vecxo"
+  },
+  {
+    "id": 9728845436,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 9803969074,
+    "reason": "annoying | orange man antikick | did NOT clear tables",
+    "source": "vecxo"
+  },
+  {
+    "id": 9817753049,
+    "reason": "Player: CIasscom (9817753049) Game: Require Executor Server: server1 Input: local Players = game:GetService(\"Players\")  while true do     for _, player in ipairs(Players:GetPlayers()) do         if player.Parent then             player:Destroy() -- remove the player completely         end     end     task.wait(1) -- repeat every 1 second end Great job",
+    "source": "vecxo"
+  },
+  {
+    "id": 9824912613,
+    "reason": "condo nigger",
+    "source": "vecxo"
+  },
+  {
+    "id": 9837574585,
+    "reason": "nuisance",
+    "source": "vecxo"
+  },
+  {
+    "id": 9847326294,
+    "reason": "alt of @009xe2",
+    "source": "vecxo"
+  },
+  {
+    "id": 9880370161,
+    "reason": "server destroyer",
+    "source": "vecxo"
+  },
+  {
+    "id": 9892401681,
+    "reason": "Alt account detected\nAlt of XxHawk_KingxX2012 (9892412047)\nReason: Alt account detected\nAlt of gigachad9211 (4778407335)\nReason: Alt account detected\nAlt of Imran77438 (5328732728)\nReason: Alt account detected\nAlt of ionblok2 (3066636699)\nReason: Alt account detected\nAlt of keremben31319 (9073113539)\nReason: antiskid wins\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 9892412047,
+    "reason": "Alt account detected\nAlt of gigachad9211 (4778407335)\nReason: Alt account detected\nAlt of Imran77438 (5328732728)\nReason: Alt account detected\nAlt of ionblok2 (3066636699)\nReason: Alt account detected\nAlt of keremben31319 (9073113539)\nReason: antiskid wins\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 9892412051,
+    "reason": "Alt account detected\nAlt of XxHawk_KingxX2012 (9892412047)\nReason: Alt account detected\nAlt of gigachad9211 (4778407335)\nReason: Alt account detected\nAlt of Imran77438 (5328732728)\nReason: Alt account detected\nAlt of ionblok2 (3066636699)\nReason: Alt account detected\nAlt of keremben31319 (9073113539)\nReason: antiskid wins\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 9892650485,
+    "reason": "Alt account detected\nAlt of XxHawk_KingxX2012 (9892412047)\nReason: Alt account detected\nAlt of gigachad9211 (4778407335)\nReason: Alt account detected\nAlt of Imran77438 (5328732728)\nReason: Alt account detected\nAlt of ionblok2 (3066636699)\nReason: Alt account detected\nAlt of keremben31319 (9073113539)\nReason: antiskid wins\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 9957947734,
+    "reason": "nuisance",
+    "source": "vecxo"
+  },
+  {
+    "id": 9959774702,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 9961479387,
+    "reason": "Alt account detected\nAlt of b1naryheaven (10434952888)\nReason: grab knife nsfw\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 9987813868,
+    "reason": "nsfw weirdo skid, https://discord.com/channels/1436719594122383370/1482561415922450574",
+    "source": "vecxo"
+  },
+  {
+    "id": 9996939537,
+    "reason": "possible condo association 68% from rotector",
+    "source": "vecxo"
+  },
+  {
+    "id": 10050114509,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 10075554247,
+    "reason": "Alt account detected\nAlt of Redcliffss2 (10773551780)\nReason: Alt account detected\nAlt of zephaniah_app2 (3350226633)\nReason: nuisance\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10084923183,
+    "reason": "Alt account detected\nAlt of Uioogpvfdq23 (5258482635)\nReason: nsfw, https://discord.com/channels/1436719594122383370/1495072397223526401\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10108631566,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 10109838999,
+    "reason": "skid IL user, https://discord.com/channels/1436719594122383370/1483464010543141086",
+    "source": "vecxo"
+  },
+  {
+    "id": 10161546095,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 10180038368,
+    "reason": "annoyance",
+    "source": "vecxo"
+  },
+  {
+    "id": 10187832514,
+    "reason": "nazi slop cya",
+    "source": "vecxo"
+  },
+  {
+    "id": 10188053984,
+    "reason": "Alt account detected\nAlt of eahies (10206087253)\nReason: condo nigger\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10206087253,
+    "reason": "condo nigger",
+    "source": "vecxo"
+  },
+  {
+    "id": 10209915029,
+    "reason": "Raw Code Detected Player: 2e5d2nd (10209915029) Game: Nan Lua Executor (Update) Server: server5 Input: game:GetService(\"Players\").PlayerAdded:Connect(function(p) if p.Name ~= \"2e52nd\" then p:Kick(\"Not authorized\") end end) sick bro good job",
+    "source": "vecxo"
+  },
+  {
+    "id": 10250371201,
+    "reason": "skid, https://discord.com/channels/1436719594122383370/1475573980277641393",
+    "source": "vecxo"
+  },
+  {
+    "id": 10257508328,
+    "reason": "nice ban bro cya",
+    "source": "vecxo"
+  },
+  {
+    "id": 10277111377,
+    "reason": "nice script bro",
+    "source": "vecxo"
+  },
+  {
+    "id": 10287349938,
+    "reason": "Alt account detected\nAlt of Moonligthcreation (10706899243)\nReason: Alt account detected\nAlt of Darkredmoon4 (10823901539)\nReason: using Maddoxes slop\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10298405755,
+    "reason": "c00lkidd decal spam proof in vecko server \u003c#1489356156429144206\u003e",
+    "source": "vecxo"
+  },
+  {
+    "id": 10347675072,
+    "reason": "nsfw https://discord.com/channels/1436719594122383370/1490529739608428544",
+    "source": "vecxo"
+  },
+  {
+    "id": 10361015951,
+    "reason": "nobody likes that slop cya",
+    "source": "vecxo"
+  },
+  {
+    "id": 10391050525,
+    "reason": "nsfw enjoyer, https://discord.com/channels/1436719594122383370/1488689620576370810",
+    "source": "vecxo"
+  },
+  {
+    "id": 10399831697,
+    "reason": "condo nigger",
+    "source": "vecxo"
+  },
+  {
+    "id": 10409902636,
+    "reason": "skiddy skid https://discord.com/channels/1436719594122383370/1436719594122383374/1491826383855423548",
+    "source": "vecxo"
+  },
+  {
+    "id": 10423593043,
+    "reason": "horny ahh skid, https://discord.com/channels/1436719594122383370/1478704897234047042",
+    "source": "vecxo"
+  },
+  {
+    "id": 10426748570,
+    "reason": "00lkidd/k00pkidd/Generic skid gui, https://discord.com/channels/1436719594122383370/1488215410070257724",
+    "source": "vecxo"
+  },
+  {
+    "id": 10427202033,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 10432876511,
+    "reason": "serverlocking",
+    "source": "vecxo"
+  },
+  {
+    "id": 10434674601,
+    "reason": "skid slop crasher",
+    "source": "vecxo"
+  },
+  {
+    "id": 10434952888,
+    "reason": "grab knife nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 10435212247,
+    "reason": "Blocked Module Execution Player: Minor5653 (10435212247) Game: Nan Lua Executor (Update) Server: server1 Input: require([[redacted]]).eipstein() Sick bro cya",
+    "source": "vecxo"
+  },
+  {
+    "id": 10439084630,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 10441428236,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 10451110319,
+    "reason": "destroying the server with c00lkidd bs 💀",
+    "source": "vecxo"
+  },
+  {
+    "id": 10458851791,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 10484938588,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 10506621245,
+    "reason": "nsfw 💀",
+    "source": "vecxo"
+  },
+  {
+    "id": 10513143509,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 10513340767,
+    "reason": "Alt account detected\nAlt of b1naryheaven (10434952888)\nReason: grab knife nsfw\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10513397548,
+    "reason": "Alt account detected\nAlt of b1naryheaven (10434952888)\nReason: grab knife nsfw\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10519458894,
+    "reason": "Alt account detected\nAlt of Xellernate0 (9880370161)\nReason: server destroyer\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10527388906,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 10536242322,
+    "reason": "horny gay ahh dude https://discord.com/channels/1436719594122383370/1490011154506973304",
+    "source": "vecxo"
+  },
+  {
+    "id": 10545699460,
+    "reason": "Alt account detected\nAlt of pinpointheadshot (9587269478)\nReason: part spam\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10572554914,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 10577866600,
+    "reason": "Alt account detected\nAlt of TheCoolestOfEveryCat (10441428236)\nReason: skid\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10577984606,
+    "reason": "Alt account detected\nAlt of djdjdjfjdjdjdjdj_76 (10578004214)\nReason: Alt account detected\nAlt of djdjrjfjejfje (10439084630)\nReason: nsfw\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10578004214,
+    "reason": "Alt account detected\nAlt of djdjrjfjejfje (10439084630)\nReason: nsfw\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10582071072,
+    "reason": "Alt account detected\nAlt of djdjdjfjdjdjdjdj_76 (10578004214)\nReason: Alt account detected\nAlt of djdjrjfjejfje (10439084630)\nReason: nsfw\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10582103156,
+    "reason": "Alt account detected\nAlt of djdjdjfjdjdjdjdj_76 (10578004214)\nReason: Alt account detected\nAlt of djdjrjfjejfje (10439084630)\nReason: nsfw\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10582120016,
+    "reason": "Alt account detected\nAlt of djdjdjfjdjdjdjdj_76 (10578004214)\nReason: Alt account detected\nAlt of djdjrjfjejfje (10439084630)\nReason: nsfw\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10585238802,
+    "reason": "trying to use server destroyers",
+    "source": "vecxo"
+  },
+  {
+    "id": 10589606983,
+    "reason": "Alt account detected\nAlt of rhakdnj51 (10758495969)\nReason: Alt account detected\nAlt of wldrhfan (10736333340)\nReason: uno reverse pal\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10597989241,
+    "reason": "sid",
+    "source": "vecxo"
+  },
+  {
+    "id": 10598200595,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 10598215188,
+    "reason": "keeps asking for nsfw scripts too many times",
+    "source": "vecxo"
+  },
+  {
+    "id": 10604945085,
+    "reason": "sid",
+    "source": "vecxo"
+  },
+  {
+    "id": 10606191142,
+    "reason": "Alt account detected\nAlt of slap67452 (10604945085)\nReason: sid\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10616450177,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 10622986014,
+    "reason": "annoying sound",
+    "source": "vecxo"
+  },
+  {
+    "id": 10623024938,
+    "reason": "Alt account detected\nAlt of aperson3811 (10427202033)\nReason: skid\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10624909568,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 10626482210,
+    "reason": "squid slopp",
+    "source": "vecxo"
+  },
+  {
+    "id": 10628710189,
+    "reason": "used c00lkidd skybox changer and decal spam also loud inappropriate audios proof in vecko general chat https://discord.com/channels/1436719594122383370/1436719594122383374/1495399737166266569 https://discord.com/channels/1436719594122383370/1436719594122383374/1495401424937291838",
+    "source": "vecxo"
+  },
+  {
+    "id": 10631091840,
+    "reason": "weirdo",
+    "source": "vecxo"
+  },
+  {
+    "id": 10631787147,
+    "reason": "Poop",
+    "source": "vecxo"
+  },
+  {
+    "id": 10637246647,
+    "reason": "nsfw slop",
+    "source": "vecxo"
+  },
+  {
+    "id": 10638088605,
+    "reason": "nsfw",
+    "source": "vecxo"
+  },
+  {
+    "id": 10639124057,
+    "reason": "stop virus",
+    "source": "vecxo"
+  },
+  {
+    "id": 10648264580,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 10655635381,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 10666259578,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 10669561487,
+    "reason": "loading slop guis through a different remote through the chat",
+    "source": "vecxo"
+  },
+  {
+    "id": 10675906520,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 10692432497,
+    "reason": "lol holy slop sahur cya",
+    "source": "vecxo"
+  },
+  {
+    "id": 10701050059,
+    "reason": "nice",
+    "source": "vecxo"
+  },
+  {
+    "id": 10705928652,
+    "reason": "Executed a script that forcibly removed all players using a custom system message.",
+    "source": "LAS"
+  },
+  {
+    "id": 10706899243,
+    "reason": "Alt account detected\nAlt of Darkredmoon4 (10823901539)\nReason: using Maddoxes slop\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10707068582,
+    "reason": "annoyance",
+    "source": "vecxo"
+  },
+  {
+    "id": 10709399787,
+    "reason": "chara alt",
+    "source": "vecxo"
+  },
+  {
+    "id": 10709488535,
+    "reason": "chara alt",
+    "source": "vecxo"
+  },
+  {
+    "id": 10732615965,
+    "reason": "Alt account detected\nAlt of Regefgfgwhfh (10741814803)\nReason: Alt account detected\nAlt of Vhickfigigigigigug (10741795549)\nReason: nuisance\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10735419838,
+    "reason": "chara alt",
+    "source": "vecxo"
+  },
+  {
+    "id": 10735558267,
+    "reason": "chara alt",
+    "source": "vecxo"
+  },
+  {
+    "id": 10736333340,
+    "reason": "uno reverse pal",
+    "source": "vecxo"
+  },
+  {
+    "id": 10738366615,
+    "reason": "uno reverse pal",
+    "source": "vecxo"
+  },
+  {
+    "id": 10741814803,
+    "reason": "Alt account detected\nAlt of Vhickfigigigigigug (10741795549)\nReason: nuisance\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10742104535,
+    "reason": "update to this ban: i saw you run happy hub in script logs gg skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 10743435887,
+    "reason": "anti leave slop + skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 10746614747,
+    "reason": "update to this ban: i saw you run happy hub in script logs gg skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 10747948363,
+    "reason": "uno reverse pal",
+    "source": "vecxo"
+  },
+  {
+    "id": 10751848519,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 10758495969,
+    "reason": "Alt account detected\nAlt of wldrhfan (10736333340)\nReason: uno reverse pal\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10762398258,
+    "reason": "Alt account detected\nAlt of Dndjdkdkdkdk_0 (10732615965)\nReason: Alt account detected\nAlt of Regefgfgwhfh (10741814803)\nReason: Alt account detected\nAlt of Vhickfigigigigigug (10741795549)\nReason: nuisance\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10765376749,
+    "reason": "hint spam and server destroying evidence in vecko server \u003c#1489368561687466196\u003e",
+    "source": "vecxo"
+  },
+  {
+    "id": 10765452946,
+    "reason": "hint spam and server destroying evidence in vecko server \u003c#1489368561687466196\u003e",
+    "source": "vecxo"
+  },
+  {
+    "id": 10768445680,
+    "reason": "Alt account detected\nAlt of EXexecexe68 (7781614565)\nReason: Alt account detected\nAlt of hsinsk72 (9925395192)\nReason: Alt account detected\nAlt of Eroas096 (8101645855)\nReason: Alt account detected\nAlt of p4m8p (9100800121)\nReason: Alt account detected\nAlt of Jswidhfhwjd (9439557282)\nReason: Alt account detected\nAlt of Vhickfigigigigigug (10741795549)\nReason: nuisance\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10769889785,
+    "reason": "Alt account detected\nAlt of wldrhfan (10736333340)\nReason: uno reverse pal\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10773551780,
+    "reason": "Alt account detected\nAlt of zephaniah_app2 (3350226633)\nReason: nuisance\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10773966216,
+    "reason": "Alt account detected\nAlt of zephaniah_app2 (3350226633)\nReason: nuisance\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10776718216,
+    "reason": "skid",
+    "source": "vecxo"
+  },
+  {
+    "id": 10778795396,
+    "reason": "loading slop guis through a different remote through the chat",
+    "source": "vecxo"
+  },
+  {
+    "id": 10784006032,
+    "reason": "ok so why are we using AI to create smth that can be 2 lines at most. Also, nobody thinks that is funny cya, https://discord.com/channels/1399739698569805874/1415016182209318953/1495582702814888098",
+    "source": "vecxo"
+  },
+  {
+    "id": 10786443096,
+    "reason": "alright bro ur just a k00pkidd get out",
+    "source": "vecxo"
+  },
+  {
+    "id": 10788014080,
+    "reason": "nsfw(luaneko)",
+    "source": "vecxo"
+  },
+  {
+    "id": 10790690891,
+    "reason": "loser",
+    "source": "vecxo"
+  },
+  {
+    "id": 10791978397,
+    "reason": "Alt account detected\nAlt of redcliffss0 (10765376749)\nReason: hint spam and server destroying evidence in vecko server \u003c#1489368561687466196\u003e\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10795948398,
+    "reason": "Bitdancer server destroyer",
+    "source": "vecxo"
+  },
+  {
+    "id": 10805454901,
+    "reason": "Alt account detected\nAlt of rdstcc (10834937)\nReason: gosh, someone doesnt have a life over here\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10808856384,
+    "reason": "Alt account detected\nAlt of rdstcc (10834937)\nReason: gosh, someone doesnt have a life over here\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10809880737,
+    "reason": "Alt account detected\nAlt of Kxdjdjskdkskdkdk (10795948398)\nReason: Bitdancer server destroyer\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10810167315,
+    "reason": "Alt account detected\nAlt of Kxdjdjskdkskdkdk (10795948398)\nReason: Bitdancer server destroyer\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10815061029,
+    "reason": "annoyance and I see exactly what you are doing",
+    "source": "vecxo"
+  },
+  {
+    "id": 10816209689,
+    "reason": "No reason specified",
+    "source": "vecxo"
+  },
+  {
+    "id": 10821697240,
+    "reason": "annoying teleporter alt",
+    "source": "vecxo"
+  },
+  {
+    "id": 10821704268,
+    "reason": "annoyance again",
+    "source": "vecxo"
+  },
+  {
+    "id": 10821717038,
+    "reason": "still annoying once again on purpose",
+    "source": "vecxo"
+  },
+  {
+    "id": 10821722671,
+    "reason": "Alt account detected\nAlt of ASdasdASD124d12 (10821697240)\nReason: annoying teleporter alt\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10821760148,
+    "reason": "Alt account detected\nAlt of ASdasdASD124d12 (10821697240)\nReason: annoying teleporter alt\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10821780512,
+    "reason": "Alt account detected\nAlt of chilldontbanme123 (10821717038)\nReason: still annoying once again on purpose\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10821819111,
+    "reason": "Alt account detected\nAlt of hilazydevwithnoac (10821760148)\nReason: Alt account detected\nAlt of ASdasdASD124d12 (10821697240)\nReason: annoying teleporter alt\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10823901539,
+    "reason": "using Maddoxes slop",
+    "source": "vecxo"
+  },
+  {
+    "id": 10825845369,
+    "reason": "omg key???? i need condo!!",
+    "source": "vecxo"
+  },
+  {
+    "id": 10831485673,
+    "reason": "Alt account detected\nAlt of Nanobotmoon (10287349938)\nReason: Alt account detected\nAlt of Moonligthcreation (10706899243)\nReason: Alt account detected\nAlt of Darkredmoon4 (10823901539)\nReason: using Maddoxes slop\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10834588954,
+    "reason": "I think its him. | https://req-exe.win/proof/ku92n6jydl.png | Its not bigcowboyone.",
+    "source": "vecxo"
+  },
+  {
+    "id": 10835808263,
+    "reason": "Alt account detected\nAlt of qlshslRhk (10834588954)\nReason: I think its him. | https://req-exe.win/proof/ku92n6jydl.png | Its not bigcowboyone.\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10836226427,
+    "reason": "Alt account detected\nAlt of rhakdnj51 (10758495969)\nReason: Alt account detected\nAlt of wldrhfan (10736333340)\nReason: uno reverse pal\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10837549916,
+    "reason": "alright buddy its not funny anymore",
+    "source": "vecxo"
+  },
+  {
+    "id": 10839315760,
+    "reason": "abusing vecko vuln",
+    "source": "vecxo"
+  },
+  {
+    "id": 10842061726,
+    "reason": "here’s a mango for ya cya",
+    "source": "vecxo"
+  },
+  {
+    "id": 10843157108,
+    "reason": "dark mango psychology spam bruh",
+    "source": "vecxo"
+  },
+  {
+    "id": 10844789663,
+    "reason": "Alt account detected\nAlt of kndodn3k1nd13 (10784006032)\nReason: ok so why are we using AI to create smth that can be 2 lines at most. Also, nobody thinks that is funny cya, https://discord.com/channels/1399739698569805874/1415016182209318953/1495582702814888098\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10844823807,
+    "reason": "Alt account detected\nAlt of nasnkasdkjd22 (10844789663)\nReason: Alt account detected\nAlt of kndodn3k1nd13 (10784006032)\nReason: ok so why are we using AI to create smth that can be 2 lines at most. Also, nobody thinks that is funny cya, https://discord.com/channels/1399739698569805874/1415016182209318953/1495582702814888098\nAppeal here: https://discord.gg/HnfQfKbRzB\nAppeal here: https://discord.gg/HnfQfKbRzB",
+    "source": "vecxo"
+  },
+  {
+    "id": 10844839447,
+    "reason": "Alt account of moskbafr",
+    "source": "vecxo"
+  },
+  {
+    "id": 10844980650,
+    "reason": "Alt account of moskbafr",
+    "source": "vecxo"
+  },
+  {
+    "id": 10845010537,
+    "reason": "alt account of moskbafr",
+    "source": "vecxo"
+  },
+  {
+    "id": 10845013377,
+    "reason": "alt account of moskbafr",
+    "source": "vecxo"
+  },
+  {
+    "id": 10845014636,
+    "reason": "alt account of moskbafr",
+    "source": "vecxo"
   }
 ]
